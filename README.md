@@ -2,7 +2,7 @@
 
 My First DApp where users can easily swap ether for tokens at a fixed price.
 
-#Tools used:
+# Tools used:
 
 1. Solidity
 2. Truffle
@@ -10,3 +10,5 @@ My First DApp where users can easily swap ether for tokens at a fixed price.
 4. Ganache
 5. ReactJS
 6. Meta Mask
+
+# To Run
