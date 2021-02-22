@@ -1,4 +1,4 @@
-# eth_swap
+# Eth_swap-DApp
 
 My First DApp where users can easily swap ether for tokens at a fixed price.
 
